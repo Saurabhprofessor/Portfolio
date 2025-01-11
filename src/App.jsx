@@ -3,7 +3,7 @@ import Home from './Components/Home'
 import Navbar from './Components/Navbar'
 import About from './Components/About'
 import Experince from './Components/Experince'
-import Project from './Components/project' 
+import Project from './Components/Project' 
 import Contact from './Components/Contact'
 
 
